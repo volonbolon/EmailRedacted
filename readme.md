@@ -1,0 +1,3 @@
+Dead simple app to show [-stringByReplacingOccurrencesOfString:withString:options:range:](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSString_Class/Reference/NSString.html#//apple_ref/occ/instm/NSString/stringByReplacingOccurrencesOfString:withString:options:range:) in action. 
+
+For more information, read [Text Handling in iOS 4](http://volonbolon.net/post/861427732/text-handling-in-ios-4)
